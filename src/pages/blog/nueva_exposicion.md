@@ -1,15 +1,14 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: Nueva exposición
+title: Exposición de Bachillerato de artes
 draft: false
-date: 2022/02/28
-short: Contamos cómo se puede crear un blog de ejemplo a partir de otro
- tipo de archivos.
+date: 2022/04/06
+short: El bachillerato de artes piensa exponer las obras de arte que han hecho a lo largo del curso.
 ---
 
-Ejemplo de entrada de blog generada con un formato diferente
-al HTML que me permite meter información de una forma más 
-clara.
+Los alumnos de bachillerato de artes 
+han estado dejando salir su imaginación conforme iba habanzando el curso. Han estado plasmando sus pensamientos en las obras que han estado haciendo.
 
-Lo curioso de este formato es que también puedo utilizar
-<b>Código HTML</b> para dar formato.
+![](https://www.escuelaideo.edu.es/wp-content/uploads/2021/02/IMG_20201112_095143_889-1200x1200.jpg)
+
+Por fuentes anonimas, nos hemos enterado de que haran una exposición al final de este curso.
